@@ -1,0 +1,6 @@
+numpy==1.24.4
+pandas==2.2.2
+scikit-learn==1.5.2
+scikit-learn-intelex==20230426.121932
+Flask==3.0.3
+pickleshare==0.7.5
